@@ -1,2 +1,2 @@
 # tour-booking-app
-this is my first time build tour booking app with GitHub copilot
+this is my first time learning how to build tour booking app with GitHub and copilot
